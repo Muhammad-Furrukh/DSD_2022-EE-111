@@ -1,0 +1,14 @@
+{D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 2/lab2_task2_tb.sv} {0 {vlog -work task2 -vopt -sv -stats=none {D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 2/lab2_task2_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module lab2_task2_tb
+** Error: D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 2/lab2_task2_tb.sv(16): (vlog-2730) Undefined variable: 'A'.
+** Error: D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 2/lab2_task2_tb.sv(16): (vlog-2730) Undefined variable: 'B'.
+** Error: D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 2/lab2_task2_tb.sv(16): (vlog-2730) Undefined variable: 'C'.
+
+} {4.0 7.0} {}} {D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 2/lab2_task2.sv} {0 {vlog -work task2 -vopt -sv -stats=none {D:\Documents\UET Courses\4th semester\Digital Design\Lab\Lab 2\lab2_task2.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module lab2_task2
+** Error: (vlog-13069) D:\Documents\UET Courses\4th semester\Digital Design\Lab\Lab 2\lab2_task2.sv(6): near "=": syntax error, unexpected '='.
+** Error: D:\Documents\UET Courses\4th semester\Digital Design\Lab\Lab 2\lab2_task2.sv(6): (vlog-13205) Syntax error found in the scope following 'sum'. Is there a missing '::'?
+
+} {4.0 6.0} {}}
