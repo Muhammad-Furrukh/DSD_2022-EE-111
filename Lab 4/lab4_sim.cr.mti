@@ -1,0 +1,15 @@
+{D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1.sv} {1 {vlog -work lab4_sim -vopt -sv -stats=none {D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module lab4_task1
+
+Top level modules:
+	lab4_task1
+
+} {} {}} {D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1_tb.sv} {1 {vlog -work lab4_sim -vopt -sv -stats=none {D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module lab4_task1_tb
+
+Top level modules:
+	lab4_task1_tb
+
+} {} {}}
