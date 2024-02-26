@@ -1,0 +1,72 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4
+T_opt
+!s110 1708972451
+VMkjkGRj>8@:EOLPZUT8:H2
+04 13 4 work lab4_task1_tb fast 0
+=1-c423605a1469-65dcd9a3-3-4bd0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work lab4_sim +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vlab4_task1
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1708972433
+!i10b 1
+!s100 6meD``ojhGk;a[PHoEA]T2
+I?hFQKFdUmeMc9=0HfhWhX3
+S1
+R1
+w1708971737
+8D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1.sv
+FD:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1.sv
+!i122 6
+L0 1 21
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1708972433.000000
+!s107 D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1.sv|
+!s90 -reportprogress|300|-work|lab4_sim|-vopt|-sv|-stats=none|D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1.sv|
+!i113 0
+Z8 o-work lab4_sim -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vlab4_task1_tb
+R3
+R4
+!i10b 1
+!s100 75;3GVDHjYm3XZ>2DSY=>3
+I_dTKIPHiHRm6X`g<G[7WQ2
+S1
+R1
+w1708972381
+8D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1_tb.sv
+FD:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1_tb.sv
+!i122 7
+L0 1 49
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1_tb.sv|
+!s90 -reportprogress|300|-work|lab4_sim|-vopt|-sv|-stats=none|D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 4/lab4_task1_tb.sv|
+!i113 0
+R8
+R2
