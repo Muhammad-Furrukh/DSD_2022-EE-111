@@ -1,0 +1,9 @@
+{D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_sim.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_sim.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DFF
+-- Compiling module lab8_sim
+
+Top level modules:
+	lab8_sim
+
+} {} {}}

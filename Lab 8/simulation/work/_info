@@ -1,0 +1,98 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1711779074
+VYOeI5@AIAkfQNdn7_ZkQ?0
+04 7 4 work lab8_tb fast 0
+=1-c423605a1469-6607ad01-369-2968
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vDFF
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1711779068
+!i10b 1
+!s100 a=?ZccFbFSDW1RQGb8nkX0
+I[e]_JjM?_j2;bR<kJgHXk3
+S1
+Z4 dD:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation
+Z5 w1711777608
+Z6 8D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_sim.sv
+Z7 FD:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_sim.sv
+!i122 8
+L0 1 10
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1711779068.000000
+Z11 !s107 D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_sim.sv|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_sim.sv|
+!i113 0
+Z13 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@d@f@f
+vlab8_sim
+R2
+R3
+!i10b 1
+!s100 CZR<XQ=:moFHoo^FYBZ013
+I06hGAL]N2AD2[d6M0>j>k3
+S1
+R4
+R5
+R6
+R7
+!i122 8
+L0 11 163
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vlab8_tb
+R2
+!s110 1711779069
+!i10b 1
+!s100 [RjFng]4aab4zOQ4PLZLX3
+I@XRLn3n3iz_h7UE1n>DcH0
+S1
+R4
+w1711779046
+8D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_tb.sv
+FD:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_tb.sv
+!i122 9
+L0 1 160
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Documents/UET Courses/4th semester/Digital Design/Lab/Lab 8/simulation/lab8_tb.sv|
+!i113 0
+R13
+R1
